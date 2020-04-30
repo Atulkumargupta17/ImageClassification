@@ -1,0 +1,25 @@
+G:\Downloads\machinelearning-samples-master\machinelearning-samples-master\samples\csharp\getting-started\DeepLearning_ImageClassification_TensorFlow\ImageClassification\bin\Debug\netcoreapp2.1\ImageClassification.Score.deps.json
+G:\Downloads\machinelearning-samples-master\machinelearning-samples-master\samples\csharp\getting-started\DeepLearning_ImageClassification_TensorFlow\ImageClassification\bin\Debug\netcoreapp2.1\ImageClassification.Score.dll
+G:\Downloads\machinelearning-samples-master\machinelearning-samples-master\samples\csharp\getting-started\DeepLearning_ImageClassification_TensorFlow\ImageClassification\bin\Debug\netcoreapp2.1\ImageClassification.Score.pdb
+G:\Downloads\machinelearning-samples-master\machinelearning-samples-master\samples\csharp\getting-started\DeepLearning_ImageClassification_TensorFlow\ImageClassification\obj\Debug\netcoreapp2.1\ImageClassification.Score.csproj.CoreCompileInputs.cache
+G:\Downloads\machinelearning-samples-master\machinelearning-samples-master\samples\csharp\getting-started\DeepLearning_ImageClassification_TensorFlow\ImageClassification\obj\Debug\netcoreapp2.1\ImageClassification.Score.AssemblyInfoInputs.cache
+G:\Downloads\machinelearning-samples-master\machinelearning-samples-master\samples\csharp\getting-started\DeepLearning_ImageClassification_TensorFlow\ImageClassification\obj\Debug\netcoreapp2.1\ImageClassification.Score.AssemblyInfo.cs
+G:\Downloads\machinelearning-samples-master\machinelearning-samples-master\samples\csharp\getting-started\DeepLearning_ImageClassification_TensorFlow\ImageClassification\obj\Debug\netcoreapp2.1\ImageClassification.Score.dll
+G:\Downloads\machinelearning-samples-master\machinelearning-samples-master\samples\csharp\getting-started\DeepLearning_ImageClassification_TensorFlow\ImageClassification\obj\Debug\netcoreapp2.1\ImageClassification.Score.pdb
+C:\Users\mhabi\source\repos\Image Classification\ImageClassification\obj\Debug\netcoreapp2.1\ImageClassification.Score.csproj.CoreCompileInputs.cache
+C:\Users\mhabi\source\repos\Image Classification\ImageClassification\obj\Debug\netcoreapp2.1\ImageClassification.Score.AssemblyInfoInputs.cache
+C:\Users\mhabi\source\repos\Image Classification\ImageClassification\obj\Debug\netcoreapp2.1\ImageClassification.Score.AssemblyInfo.cs
+C:\Users\mhabi\source\repos\Image Classification\ImageClassification\bin\Debug\netcoreapp2.1\ImageClassification.Score.deps.json
+C:\Users\mhabi\source\repos\Image Classification\ImageClassification\bin\Debug\netcoreapp2.1\ImageClassification.Score.dll
+C:\Users\mhabi\source\repos\Image Classification\ImageClassification\obj\Debug\netcoreapp2.1\ImageClassification.Score.csprojAssemblyReference.cache
+C:\Users\mhabi\source\repos\Image Classification\ImageClassification\bin\Debug\netcoreapp2.1\ImageClassification.Score.pdb
+C:\Users\mhabi\source\repos\Image Classification\ImageClassification\obj\Debug\netcoreapp2.1\ImageClassification.Score.dll
+C:\Users\mhabi\source\repos\Image Classification\ImageClassification\obj\Debug\netcoreapp2.1\ImageClassification.Score.pdb
+C:\Users\ATULKUMARGUPTA\Desktop\Image Classification - Copy\ImageClassification\bin\Debug\netcoreapp2.1\ImageClassification.Score.deps.json
+C:\Users\ATULKUMARGUPTA\Desktop\Image Classification - Copy\ImageClassification\bin\Debug\netcoreapp2.1\ImageClassification.Score.dll
+C:\Users\ATULKUMARGUPTA\Desktop\Image Classification - Copy\ImageClassification\bin\Debug\netcoreapp2.1\ImageClassification.Score.pdb
+C:\Users\ATULKUMARGUPTA\Desktop\Image Classification - Copy\ImageClassification\obj\Debug\netcoreapp2.1\ImageClassification.Score.AssemblyInfoInputs.cache
+C:\Users\ATULKUMARGUPTA\Desktop\Image Classification - Copy\ImageClassification\obj\Debug\netcoreapp2.1\ImageClassification.Score.AssemblyInfo.cs
+C:\Users\ATULKUMARGUPTA\Desktop\Image Classification - Copy\ImageClassification\obj\Debug\netcoreapp2.1\ImageClassification.Score.dll
+C:\Users\ATULKUMARGUPTA\Desktop\Image Classification - Copy\ImageClassification\obj\Debug\netcoreapp2.1\ImageClassification.Score.pdb
+C:\Users\ATULKUMARGUPTA\Desktop\Image Classification - Copy\ImageClassification\obj\Debug\netcoreapp2.1\ImageClassification.Score.csprojAssemblyReference.cache
