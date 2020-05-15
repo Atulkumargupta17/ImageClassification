@@ -1,5 +1,5 @@
 # ImageClassification
-ImageClassification using tensorflowe
+ImageClassification using tensorflow
 
 //
 // A programmer trying to debug life
